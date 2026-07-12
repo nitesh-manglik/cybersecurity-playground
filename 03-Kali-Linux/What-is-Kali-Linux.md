@@ -8,7 +8,7 @@ Unlike general-purpose operating systems, Kali Linux is purpose-built to support
 
 Whether you are preparing for cybersecurity certifications, building a home lab, participating in Capture The Flag (CTF) challenges, or conducting authorized penetration tests, Kali Linux has become one of the most widely adopted operating systems in the cybersecurity community.
 
-> **[!NOTE]:** Kali Linux is intended for legitimate security testing, education, and research. All activities should be conducted only on systems that you own or for which you have received explicit authorization.
+> [!NOTE]: Kali Linux is intended for legitimate security testing, education, and research. All activities should be conducted only on systems that you own or for which you have received explicit authorization.
 
 ---
 
