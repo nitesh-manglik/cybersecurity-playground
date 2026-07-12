@@ -116,3 +116,21 @@ Together, let's promote practical, ethical, and responsible cybersecurity learni
 
 ---
 *Thank you for visiting this repository. I appreciate your support and hope these resources contribute to your cybersecurity journey.*
+
+## Repository Structure
+
+```
+Cybersecurity-Labs/
+├── 01-Networking-Fundamentals
+├── 02-Linux
+├── 03-Kali-Linux
+├── 04-Reconnaissance
+├── 05-Nmap
+├── 06-Web-Security
+├── 07-VAPT
+├── 08-Cloud-Security
+├── 09-DevSecOps
+├── 10-SOC
+└── Resources
+```
+
