@@ -24,8 +24,7 @@ Whether you're taking your first step into cybersecurity or strengthening years 
 
 Cybersecurity is built on **trust**.
 
-**Learn slowly. Understand deeply. Practice responsibly.
-**
+**Learn slowly. Understand deeply. Practice responsibly.**
 
 Every secure connection, authenticated user, encrypted message, protected application, and monitored network depends on systems trusting one another in carefully controlled ways.
 
@@ -100,6 +99,10 @@ The goal is to bridge the gap between theoretical knowledge and practical applic
 ---
 
 # 🗺️ Learning Roadmap
+
+
+**Understand deeply. Practice responsibly. Think like a security professional.**
+
 
 Cybersecurity is not a collection of unrelated tools—it's a journey of understanding how systems communicate, how trust is established, how attackers exploit that trust, and how defenders protect it.
 
