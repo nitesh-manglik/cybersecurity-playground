@@ -62,6 +62,9 @@ Reflect
   ↓
 Repeat
 
+---
+
+
 The objective is not simply to complete lessons.
 
 The objective is to develop the ability to ask:
