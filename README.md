@@ -45,7 +45,6 @@ Cybersecurity Playground is intended to be more than a reading experience.
 
 It is designed around a continuous learning cycle:
 
-```text
 Learn
   ↓
 Understand
@@ -61,7 +60,6 @@ Fix
 Reflect
   ↓
 Repeat
-```text
 
 ---
 
